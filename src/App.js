@@ -32,6 +32,7 @@ import AboutUs from "layouts/pages/landing-pages/about-us";
 // Material Kit 2 React routes
 import routes from "routes";
 
+
 export default function App() {
   const { pathname } = useLocation();
 
